@@ -21,3 +21,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Adolfo Cancino
 * Miguel Duarte
 * Juan el Flores
+* Oscar Faúndez
