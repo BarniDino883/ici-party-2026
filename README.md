@@ -22,3 +22,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Miguel Duarte
 * Juan el Flores
 * Oscar Faúndez
+* Vicente Lara
