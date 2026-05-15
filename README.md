@@ -19,3 +19,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Ronaldo Guerrero 
 * Fabian Becerra
 * Adolfo Cancino
+* Miguel Duarte
